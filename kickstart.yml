@@ -1,0 +1,11 @@
+name: project-name
+version: 0.1.0
+license: MIT
+description: project description
+title: Product Name
+appId: project-name.company.com
+author:
+  name: FirstName LastName
+  email: you@example.com
+repository: git@github.com:username/project-name.git
+website: https://company.com/project-name/
